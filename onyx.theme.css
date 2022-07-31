@@ -1,0 +1,28 @@
+/**
+* @name Onyx
+* @version 0.2.0
+* @description Black and White version of https://github.com/kiosion/Amethyst/
+* @author kiosion, starbunn
+* @source https://github.com/starbunn/Onyx
+*/
+
+@import url("https://raw.githubusercontent.com/starbunn/Onyx/master/css/base.css");
+
+/* change variables to 'unset' from 'none' to show elements */
+:root {
+  /* scrollbars */
+  --scrollbars: none;
+
+  /* profile card notes */
+  --notes: none;
+
+  /* profile card dm box */
+  --message: none;
+
+  /* default fonts */
+  --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+
+  /* gif/sticker buttons in msg bar */
+  --gif-sticker-buttons: none;
+}

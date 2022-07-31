@@ -1,10 +1,10 @@
 {
-  "name": "amethyst",
+  "name": "onyx",
   "version": "1.0.0",
-  "description": "<div align=center><h1>Amethyst</h1></div>",
+  "description": "<div align=center><h1>Onyx</h1></div>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiosion/Amethyst"
+    "url": "https://github.com/starbunn/Onyx"
   },
   "devDependencies": {
     "husky": "^8.0.0",
